@@ -2,15 +2,14 @@
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    android:background="#201f29">
+    android:layout_height="match_parent">
 
         <ImageView
             android:id="@+id/splash_view"
             android:layout_marginLeft="20dp"
             android:layout_marginRight="20dp"
             android:layout_centerInParent="true"
-            android:src="@drawable/ic_launcher"
+            android:src="@drawable/sapson1"
             android:layout_gravity="center"
             android:layout_width="match_parent"
             android:layout_height="180dp" />
